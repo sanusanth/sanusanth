@@ -1,4 +1,4 @@
-###  🙋 Hi am a Sanusanth 👋
+###  🙋 Hi am  Sanusanth 👋
 
 ------ 🙏  Welcome to my profile!  🙏  --------
 
@@ -6,6 +6,6 @@
 
 📚 The programming is hard to read 📚
 
---- "" My dont Knowledge of Programming Languages "" ---
+--- "" I dont Know Programming Languages "" ---
 
 -->
