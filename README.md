@@ -31,3 +31,4 @@
 <a href="#" class="fa fa-yahoo"></a>
 <a href="#" class="fa fa-reddit"></a>
 <a href="#" class="fa fa-rss"></a>
+</style>
